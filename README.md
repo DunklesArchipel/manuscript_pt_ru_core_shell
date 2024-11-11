@@ -1,5 +1,4 @@
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14083383.svg)](https://doi.org/10.5281/zenodo.14083383)
 
 This project contains the evaluated data files for the article
 "Stabilization of Ru-Core, Pt-Shell Model Electrodes by Electronic Effects and Electrooxidation Reactions".
