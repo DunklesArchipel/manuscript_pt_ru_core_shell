@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="SI_sxrd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="460.3265"
+     inkscape:cy="280.01428"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective1776" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 L 375.33732,0 L 375.33732,53.326614 L 0,53.326614 z"
+         id="path41444" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-8">
+      <path
+         d="M 0,0 L 375.33732,0 L 375.33732,53.326614 L 0,53.326614 z"
+         id="path43591" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-3">
+      <path
+         d="M 0,0 L 375.33732,0 L 375.33732,53.326614 L 0,53.326614 z"
+         id="path46414" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-9">
+      <path
+         d="M 0,0 L 327.13827,0 L 327.13827,53.326614 L 0,53.326614 z"
+         id="path54014" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;stroke:#00ff00;stroke-width:0.352777;stroke-dasharray:0.352777, 0.705556;stroke-opacity:0.751381"
+       id="rect874"
+       width="178"
+       height="13.011822"
+       x="21.066759"
+       y="-14.251043" />
+    <g
+       id="g1218"
+       inkscape:export-filename="O:\Meine Ablage\Projects\Project_7\Figures\article_engs2022\SXRD\SI_SXRD.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <image
+         width="159.96919"
+         height="94.996002"
+         preserveAspectRatio="none"
+         xlink:href="SI_sxrd_MeOH_vs_CV.png"
+         id="image925"
+         x="27.591385"
+         y="12.931627" />
+      <g
+         id="g26398"
+         inkscape:export-filename="O:\Meine Ablage\Projects\Project_7\Figures\article_engs2022\SXRD\sxrd_stm.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         transform="translate(15.226837,2.24262)">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:0.105833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect26025"
+           width="4.4901276"
+           height="4.4901276"
+           x="27.83115"
+           y="13.022583" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="28.852779"
+           y="16.052223"
+           id="text24055"><tspan
+             sodipodi:role="line"
+             id="tspan24053"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             x="28.852779"
+             y="16.052223">a)</tspan></text>
+      </g>
+      <g
+         id="g29798"
+         transform="translate(15.226837,43.43114)"
+         inkscape:export-filename="O:\Meine Ablage\Projects\Project_7\Figures\article_engs2022\SXRD\sxrd_stm.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:0.105833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect26025-5"
+           width="4.4901276"
+           height="4.4901276"
+           x="27.83115"
+           y="13.022583" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="28.852779"
+           y="16.052223"
+           id="text24055-1"><tspan
+             sodipodi:role="line"
+             id="tspan24053-7"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             x="28.852779"
+             y="16.052223">b)</tspan></text>
+      </g>
+      <g
+         id="g959"
+         transform="translate(-1.0187547,-98.03446)">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:0.105833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect26025-5-77"
+           width="4.4901276"
+           height="4.4901276"
+           x="124.31105"
+           y="113.56998" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="125.33268"
+           y="116.59962"
+           id="text24055-1-0"><tspan
+             sodipodi:role="line"
+             id="tspan24053-7-4"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             x="125.33268"
+             y="116.59962">c)</tspan></text>
+      </g>
+      <g
+         id="g954"
+         transform="translate(-1.232126,-97.52571)">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:0.105833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect26025-5-77-6"
+           width="4.4901276"
+           height="4.4901276"
+           x="124.52442"
+           y="153.64825" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="125.54605"
+           y="156.67789"
+           id="text24055-1-0-6"><tspan
+             sodipodi:role="line"
+             id="tspan24053-7-4-7"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             x="125.54605"
+             y="156.67789"
+             rotate="0 0 0">d)</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
