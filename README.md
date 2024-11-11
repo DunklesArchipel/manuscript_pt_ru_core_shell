@@ -23,10 +23,15 @@ If you have conda or mamba installed you can execute the notebook locally with j
 Replace `conda` with `mamba`, respectively.
 
 ```sh
-cd pt_ru_core_shell
+cd manuscript_pt_ru_core_shell
 conda env create -f environment.yml
 conda activate pt_ru_core_shell
-jupyter notebook
 ```
 
-Select the respective file in the jupyter file browser and have fun.
+Unzip all ZIP files from in the `data` into the `data` folder and those from the `data/EC_DEMS_data/` in the `data/EC_DEMS_data/` folder.
+
+Open a jupyter notebook to explore the files
+
+```sh
+jupyter notebook
+```
