@@ -1,0 +1,12 @@
+# Create a conda environment with these dependencies preinstalled with:
+# conda env create -f environment.yml
+name: pt_ru_core_shell
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - jupyter
+  - natsort
+  - pip
+  - pip:
+    - unitpackage>=0.8.4,<0.9.0
